@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-29T17:57:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Ring6"
+        },
+        "Owner": "Andrumar10 Andrumar10 <andrumar10@yahoo.com>",
+        "Size": {
+            "X": 50,
+            "Y": 50
+        }
+    }
+}
